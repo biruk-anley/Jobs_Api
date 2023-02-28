@@ -1,4 +1,4 @@
-// a controller that is used to register and login a user
+// a cont that is used to register and login a user
 
 const register = async (req, res) => {
     res.send('register user')
